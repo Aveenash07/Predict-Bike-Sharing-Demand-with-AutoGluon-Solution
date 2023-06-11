@@ -25,13 +25,13 @@ A slight improvement in the kaggle score has been found after changing the hyper
 
 TODO: Replace the image below with your own.
 
-![model_train_score.png](img/model_train_score (1).png)
+![model_train_score.png](model_train_score (1).png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 TODO: Replace the image below with your own.
 
-![model_test_sfcore.png](img/model_test_score (1).png)
+![model_test_sfcore.png](model_test_score (1).png)
 
 ## Summary
 In this project, we have obtained/explored following steps in the ML Lifecycle.
